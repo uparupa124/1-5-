@@ -1,0 +1,89 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+
+header{width: 100%;
+  margin: 20px auto;
+padding: 0 auto;
+}
+
+header .heading{text-align: center;
+}
+
+nav{width: 100%;
+border-bottom: 1px solid grey;
+border-top: 1px solid grey;
+}
+.nav-list{text-align: center;
+  margin: 0 auto;
+  padding: 15px 0;
+}
+
+li{list-style: none;
+display: inline-block;
+margin: 0 20px}
+
+.main{width: 800px;
+  height: 600px;
+  margin: 50px auto;
+padding: 0 auto;
+display: flex;
+justify-content: center;
+flex-wrap: wrap;}
+
+.box1{width: 200px;
+height: 200px;
+background-color: red;}
+
+.box2{width: 200px;
+  height: 200px;
+background-color: pink;}
+
+  .box3{width: 200px;
+    height: 200px;
+  background-color: hotpink;}
+
+    .box4{width: 200px;
+      height: 200px;
+    background-color: purple}
+
+      .box5{width: 200px;
+        height: 200px;
+      background-color: green;}
+
+        .box6{width: 200px;
+          height: 200px;
+        background-color:palegreen;}
+
+          .box7{width: 200px;
+            height: 200px;
+          background-color: limegreen;}
+
+            .box8{width: 200px;
+              height: 200px;
+            background-color:yellowgreen;}
+
+              .box9{width: 200px;
+                height: 200px;
+              background-color: blue;}
+
+                .box10{width: 200px;
+                  height: 200px;
+                background-color: skyblue}
+
+                  .box11{width: 200px;
+                    height: 200px;
+                  background-color: aquamarine}
+
+                    .box12{width: 200px;
+                      height: 200px;
+                    background-color: aqua}
+
+
+footer{width: 100%;
+height: 120px;
+text-align: center;
+line-height: 120px;
+background-color: grey;}
+
+.footer-text{color: white;}
